@@ -15,11 +15,14 @@ p{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 5%;
-
+    margin-left: 7%;
+margin-top: 7%;
+margin-bottom: 7%;
 }
 .half-width img{
     width: 100%;
+    margin-left: 50px;
+ 
 }
 
 .link-button{
@@ -96,4 +99,7 @@ footer p{
 }
 .link:hover{
     color: red;
+}
+image{
+    image-position:center;
 }
